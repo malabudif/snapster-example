@@ -1,5 +1,5 @@
 {
-  "name": "@malbuf/snapster-example",
+  "name": "@malabudif/snapster-example",
   "version": "1.0.0",
   "type": "module",
   "license": "ISC",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@malbuf/snapster-example": "^1.0.0",
+    "@malabudif/snapster-example": "^1.0.0",
     "vue": "^3.4.19"
   },
   "devDependencies": {
